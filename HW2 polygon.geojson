@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "HW2 polygon",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -80.846087897470255, 33.501646322435683 ], [ -80.597029073956108, 34.250322725866639 ], [ -78.896558485825196, 33.701935032005736 ], [ -80.846087897470255, 33.501646322435683 ] ] ] ] } }
+]
+}
